@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip_Calculator.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip_Calculator.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.exe
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Tip Calculator\Tip Calculator\obj\x86\Debug\Tip Calculator.pdb
